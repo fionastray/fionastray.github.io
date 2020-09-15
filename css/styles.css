@@ -438,7 +438,8 @@ main p {
   bottom: 0;
   font-weight: 700;
   color: #9b87b8;
-  font-style: italic; }
+  font-style: italic; 
+  font-size: 1rem; }
 
 .labeled h3 {
   top: 0;
